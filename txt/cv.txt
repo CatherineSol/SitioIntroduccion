@@ -1,0 +1,149 @@
+<html>
+<head>
+<title> CV </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #FFA500;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #00ffff;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: gray;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+</style>
+</head>
+<body bgcolor="FFA515" background="https://fondosmil.com/fondo/1850.jpg">
+<h1 style="color: #000000 "><center> CURRICULUM VITAE </center></h1>
+<center>
+  <div class="navbar">
+      <div class="navbar">
+        <a href=" menu.htm "> PAGINA PRINCIPAL </a>
+        <a href=" cv.htm "> CV </a>
+        <a href=" cursos.htm "> CURSO  </a>
+          <a href=" juego/jg.htm "> JUEGO </a>
+      <a href=" img.htm "> IMAGENES  </a>
+     <a href=" video.htm "> VIDEO </a>
+      </div>
+    </div> 
+  </div>
+</center>
+<br>
+<br>
+
+<h1 style="color: #000000"><center> CATHERINE STEISY SOLARES HERRERA </center>
+<h3 style="color: #000000 "><center> PERITO CONTADOR CON ORIENTACION EN COMPUTACION </center></h3>
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+<BR><BR>
+<CENTER> <IMG src="Imagen\cv.jpg" alt= EN imagen" WIDTH=150 HEIGHT=150> </CENTER>
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+<BR><BR>
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > SOBRE MI
+</MARQUEE> 
+<BR>
+
+<H6> Como persona organizada y con una gran motivación, 
+soy capaz de adaptarme 
+<H6> a cualquier circunstancia y dar
+siempre lo mejor </H6>
+ </H6>
+<H6> de mí en cualquier proyecto, al mismo tiempo que me esfuerzo 
+por trabajar </H6>
+
+<H6> en equipo y fomentar valores como los del compañerismo.  </H6>
+
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > CONTACTO
+</MARQUEE>
+<H6> *CATYSOLARES9@GMAIL.COM</H6>
+<H6> *TELEFONO: 5367-4602 </H6>
+<H6> *ALDEA CHAPAS, NUEVA SANTA ROSA, GUATEMALA </H6>
+<BR>
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > HABILIDADES
+</MARQUEE>
+<BR>
+<H6> *LIDERAZGO </H6>
+<H6> *TRABAJO EN EQUIPO </H6>
+<H6> *ETICA DE TRABAJO </H6>
+<H6> *INICIATIVA </H6>
+<BR>
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > HOBBIES
+</MARQUEE>
+<H6> *PINTAR Y DIBUJAR </H6>
+<H6> *ENTRENAR ARTES MARCIALES MIXTAS </H6>
+<BR>
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > EDUCACION
+</MARQUEE> 
+<BR>
+<H6> *2014-2020 </H6> <H6> *CENSE </H6> 
+<BR>
+<MARQUEE BGCOLOR=#FFA500 WIDTH=20% HEIGHT=20 > INFORMATICA
+</MARQUEE> 
+<BR>
+<H6> *ADOBE PHOTOSHOP  </H6>
+<H6> *ADOBE PREMIER PRO </H6>
+<H6> *ADOBE ILUSTRATOR </H6>
+
+
+
+
+
+</body>
+</html>

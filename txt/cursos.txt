@@ -1,0 +1,135 @@
+<html>
+<head>
+<title> CURSOS </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #FFA500;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #00ffff;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: gray;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+</style>
+</head>
+<body bgcolor="FFFF" background= "https://fondosmil.com/fondo/1850.jpg" >
+<h1 style="color: #000000 "><center> NOTAS CURSOS </center></h1>
+<center>
+  <div class="navbar">
+    <a href="menu.htm"> PAGINA PRINCIPAL </a>
+    <a href="cv.htm"> CV </a>
+    <a href="cursos.htm"> CURSOS </a>
+  <a href=" juego/jg.htm "> JUEGO </a>
+ <a href="video.htm"> VIDEO </a>
+ <a href="img.htm"> IMAGENES </a>
+   <a href=" ntc.htm "> NOTICIA </a>
+    
+      </div>
+    </div> 
+  </div>
+</center>
+<br>
+<br>
+
+<center><TABLE bgcolor="FF7F50" border=4 cellspacing=4 cellpadding=4 width=80%>
+<th align = center>CURSO</th>
+<th align = center> 1 SEMESTRE</th>
+<th align = center> 2 SEMESTRE</th>
+
+<tr>
+
+<Td align = left> INTRODUCCION A LOS SISTEMAS DE COMPUTO </td>
+<td align = left> 8/10 </td>
+<td align = left> --- </td>
+
+</tr>
+<tr>
+
+<td align = left> LOGICA DE SISTEMAS </td>
+<td align = left> 9/10 </td>
+<td align = left> --- </td>
+
+</tr>
+<tr>
+
+<td align = left> CONTABILIDAD I </td>
+<td align = left> 9/10 </td>
+<td align = left> 20/20 </td>
+
+</tr>
+<tr>
+
+<td align = left> DESARROLLO HUMANO Y PROFESIONAL </td>
+<td align = left> 9/10 </td>
+<td align = left> --- </td>
+
+</tr>
+<tr>
+
+<td align = left> METODOLOGIA DE LA INVESTIGACION </td>
+<td align = left> 7/10 </td>
+<td align = left> 20/20 </td>
+
+
+</tr>
+</TABLE></center>
+</body>
+</html>

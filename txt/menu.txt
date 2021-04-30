@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>my website</title>
+
+<style>
+  body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #FFA500;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #00ffff;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: gray;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #FFFFF;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+</style>
+</head>
+<body bgcolor="" background="https://fondosmil.com/fondo/1850.jpg" >
+<h1 style="color: #000000 "><center> PAGINA PRINCIPAL </center></h1>
+<center>
+    <div class="navbar">
+        <a href=" menu.html "> PAGINA PRINCIPAL </a>
+        <a href=" cv.htm "> CV </a>
+        <a href=" cursos.htm "> CURSOS  </a>
+        <a href=" juego/jg.htm "> JUEGO </a>
+      <a href=" img.htm "> IMAGENES  </a>
+     <a href=" video.htm "> VIDEO </a>
+
+          </div>
+        </div> 
+      </div>
+<center><img src="https://images.vexels.com/media/users/3/158633/isolated/preview/1ffdc8f3402bc9519576e903079c3ed0-ilustraci-oacute-n-de-hoja-de-loto-by-vexels.png" </center>
+<br>
+<br>
+</body>
+</html>
